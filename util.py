@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 import time
 import re
 import MySQLdb
-
+#yinshuai is a goods man
 homePage = 'http://weibo.cn/'
 infoPage = '/info'
 
